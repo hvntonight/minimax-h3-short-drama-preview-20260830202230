@@ -10,6 +10,8 @@ https://hvntonight.github.io/minimax-h3-short-drama-preview-20260830202230/
 
 ## 视频文件
 
+- [《早春晴朗》原创同人长场景：分手那一夜](./videos/early-spring-qinglang-breakup-episode-02-native-subtitled.mp4)，约 11.9 MiB，131.84 秒，864×480 原生分辨率，20 个镜头、28 句对白、5 个无对白姿态过渡镜头，无旁白
+  - [二次编辑包](./downloads/early-spring-qinglang-breakup-episode-02-editable-package.zip)：20 个独立镜头、FCPXML、ffconcat、JSON 时间线、SRT/ASS、角色参考图、工作流、故事板、清单与 QA 报告；导入剪辑软件后可按需重新链接媒体
 - [《早春晴朗》原创同人样片：凌晨一点的提案](./videos/early-spring-qinglang-episode-01-native-subtitled.mp4)，约 6.5 MiB，52.736 秒，864×480 原生分辨率，8 个镜头、15 句对白，无旁白
 - [第一集《初见龟兹》](./videos/episode-01-chujian-guizi-1080p-subtitled.mp4)，约 68.2 MiB，118.656 秒
 - [第二集《别负相逢》](./videos/episode-02-biefu-xiangfeng-1080p-subtitled.mp4)，约 65.7 MiB，118.400 秒
