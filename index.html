@@ -12,6 +12,10 @@
     video { display: block; width: 100%; max-height: 600px; background: #000; border-radius: 10px; }
     a { color: #93c5fd; }
     .meta { color: #cbd5e1; }
+    .actions { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 12px 0 28px; }
+    .download-button { display: inline-block; padding: 9px 15px; border-radius: 8px; background: #2563eb; color: #fff; text-decoration: none; font-weight: 600; }
+    .download-button:hover { background: #1d4ed8; }
+    .hint { color: #94a3b8; font-size: 14px; }
   </style>
 </head>
 <body>
@@ -21,15 +25,21 @@
   <h2>第一集：初见龟兹</h2>
   <video controls preload="metadata">
     <source src="videos/episode-01-chujian-guizi-1080p-subtitled.mp4" type="video/mp4">
-    您的浏览器不支持 HTML5 视频。<a href="videos/episode-01-chujian-guizi-1080p-subtitled.mp4">下载第一集</a>
+    您的浏览器不支持 HTML5 视频。<a href="videos/episode-01-chujian-guizi-1080p-subtitled.mp4" download="episode-01-chujian-guizi-1080p-subtitled.mp4">下载第一集</a>
   </video>
-  <p><a href="videos/episode-01-chujian-guizi-1080p-subtitled.mp4">下载第一集 MP4</a></p>
+  <div class="actions">
+    <a class="download-button" href="videos/episode-01-chujian-guizi-1080p-subtitled.mp4" download="episode-01-chujian-guizi-1080p-subtitled.mp4">⬇︎ 下载第一集 MP4</a>
+    <span class="hint">Safari 若直接播放，请长按或右键按钮，选择“下载链接文件”。</span>
+  </div>
 
   <h2>第二集：别负相逢</h2>
   <video controls preload="metadata">
     <source src="videos/episode-02-biefu-xiangfeng-1080p-subtitled.mp4" type="video/mp4">
-    您的浏览器不支持 HTML5 视频。<a href="videos/episode-02-biefu-xiangfeng-1080p-subtitled.mp4">下载第二集</a>
+    您的浏览器不支持 HTML5 视频。<a href="videos/episode-02-biefu-xiangfeng-1080p-subtitled.mp4" download="episode-02-biefu-xiangfeng-1080p-subtitled.mp4">下载第二集</a>
   </video>
-  <p><a href="videos/episode-02-biefu-xiangfeng-1080p-subtitled.mp4">下载第二集 MP4</a></p>
+  <div class="actions">
+    <a class="download-button" href="videos/episode-02-biefu-xiangfeng-1080p-subtitled.mp4" download="episode-02-biefu-xiangfeng-1080p-subtitled.mp4">⬇︎ 下载第二集 MP4</a>
+    <span class="hint">Safari 若直接播放，请长按或右键按钮，选择“下载链接文件”。</span>
+  </div>
 </body>
 </html>
