@@ -10,6 +10,8 @@ https://hvntonight.github.io/minimax-h3-short-drama-preview-20260830202230/
 
 ## 视频文件
 
+- [《早春晴朗》分手那一夜·情绪加强版（新男主脸）](./videos/early-spring-qinglang-breakup-episode-03-intense-native-subtitled.mp4)，约 21.2 MiB，224.00 秒，864×480 原生分辨率，28 个镜头、39 句对白、8 个无对白动作过渡镜头，无旁白
+  - [二次编辑包](./downloads/early-spring-qinglang-breakup-episode-03-intense-editable.zip)：28 个独立镜头、连续性关键帧、逐镜头提示词、ComfyUI 工作流、FCPXML、ffconcat、JSON 时间线、SRT/ASS、故事板、姿态交接表和 QA 证据；不包含用户原始人脸照片或模型权重
 - [《早春晴朗》分手那一夜：1080p 1.3 倍速版](./videos/early-spring-qinglang-breakup-episode-02-1080p-subtitled-1.3x.mp4)，约 38.1 MiB，101.43 秒，1920×1080，24 fps，保留人声音高，烧录中文字幕
 - [《早春晴朗》原创同人长场景：分手那一夜](./videos/early-spring-qinglang-breakup-episode-02-native-subtitled.mp4)，约 11.9 MiB，131.84 秒，864×480 原生分辨率，20 个镜头、28 句对白、5 个无对白姿态过渡镜头，无旁白
   - [二次编辑包](./downloads/early-spring-qinglang-breakup-episode-02-editable-package.zip)：20 个独立镜头、FCPXML、ffconcat、JSON 时间线、SRT/ASS、角色参考图、工作流、故事板、清单与 QA 报告；导入剪辑软件后可按需重新链接媒体
